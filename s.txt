@@ -1,0 +1,14 @@
+Folder PATH listing for volume OSDisk
+Volume serial number is 00000009 0CD7:08F6
+C:\USERS\E069818\DESKTOP\TEST2\TEST2
+|   a.txt
+|   b.txt
+|   
+\---Test2
+    |   a.txt
+    |   b.txt
+    |   
+    \---Test2
+            a.txt
+            b.txt
+            
