@@ -1,0 +1,22 @@
+diff --git a/a.txt b/a.txt
+index 85137a6..f5bc74f 100644
+--- a/a.txt
++++ b/a.txt
+@@ -1,2 +1,3 @@
+ abc
+-def
+\ No newline at end of file
++def
++ghi
+\ No newline at end of file
+diff --git a/b.txt b/b.txt
+index 2e2b4a4..8ccb518 100644
+--- a/b.txt
++++ b/b.txt
+@@ -1,2 +1,3 @@
+ ghj
+-ukl
+\ No newline at end of file
++ukl
++ijk
+\ No newline at end of file
